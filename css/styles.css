@@ -1,3 +1,22 @@
-body {
-  background-color: red;
+.sidebar {
+  width: 3px;
+  float: left;
+  background-color: lightgray;
+}
+
+.row {
+  margin: 60px;
+  width: 500px;
+  height: 500px;
+  float: right;
+  display: inline-flex;
+}
+
+h2 {
+  font-weight: bold;
+  color: black;
+}
+
+.well {
+  height: 1000px;
 }
